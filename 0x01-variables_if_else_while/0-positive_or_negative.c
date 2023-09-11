@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main = Entery point
+ * main -  Entery point
  * Discripton: 'Check for number if it is positive or negative'
  * Return: 'always 0'
  */
@@ -15,15 +15,15 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 	{
-		printf("%d is Positive\n", n);
+		printf("%d is Positive\n", n, ld);
 	}
 	else if (n == 0)
 	{
-		printf("%d is zero\n", n);
+		printf("%d is zero\n", n, ld);
 	}
 	else
 	{
-		printf("%d is nagative\n", n);
+		printf("%d is nagative\n", n, ld);
 	}
 	return (0);
 }

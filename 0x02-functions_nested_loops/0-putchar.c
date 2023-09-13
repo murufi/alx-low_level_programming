@@ -4,7 +4,7 @@
  * Discripton: 'Check for number if it is positive or negative'
  * Return: 'always 0'
  */
-int _putchar(char c)
+int main(void)
 {
 _putchar('_');
 _putchar('p');

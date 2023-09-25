@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * -abs - computes the absolute value of an integer
+ * _abs - computes the absolute value of an integer
  *  @i: The character to be checked
  * Return: absolute number or zero
  */

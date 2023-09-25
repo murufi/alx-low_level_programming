@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * _islower - checks for lower character
+ * _isalpha - checks for alphabet character
  * @c: The character to be checked
- * Discripton: 'Check for number if it is positive or negative'
  * Return: 'always 0'
  */
 int _isalpha(int c)

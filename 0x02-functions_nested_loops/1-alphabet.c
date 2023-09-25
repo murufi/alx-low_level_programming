@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * main -  Entery point
- * Discripton: 'Check for number if it is positive or negative'
- * Return: 'always 0'
+ * print_alphabet - Make the alphabet
+ * Return: void
  */
 void print_alphabet(void)
 {

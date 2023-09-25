@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main -  Entery point
+ * _islower - checks for lower character
+ * @c: The character to be checked
  * Discripton: 'Check for number if it is positive or negative'
  * Return: 'always 0'
  */

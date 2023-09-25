@@ -1,9 +1,8 @@
 #include "main.h"
 /**
- * -abs - checks for lower character
+ * -abs - computes the absolute value of an integer
  *  @i: The character to be checked
- * Discripton: 'Check for number if it is positive or negative'
- * Return: 'always 0'
+ * Return: absolute number or zero
  */
 int _abs(int i)
 {

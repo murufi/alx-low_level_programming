@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * main -  Entery point
- * Discripton: 'Check for number if it is positive or negative'
+ * print_last_degit - prints the last digit of a number
+ * @n: The character to be checked
  * Return: 'always 0'
  */
-int print_last_digit(int)
+int print_last_digit(int n)
 {
 	int l;
 
